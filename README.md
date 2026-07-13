@@ -1,1 +1,1 @@
-# fundamentals_shortcourse
+# DNN Fundamentals Short Course
